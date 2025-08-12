@@ -9,7 +9,7 @@ I'm a B.Tech ECE-AI student passionate about programming and building project, w
 - **DevOps & Deployment:** Git, Vercel, Streamlit
 - **Game Development:** Pygame
 ---
-##Projects
+### Projects
 <details>
   <summary>🐍 Snake Game (Tkinter)</summary>
 
@@ -33,11 +33,7 @@ I'm a B.Tech ECE-AI student passionate about programming and building project, w
     - Win/draw detection
   - **Demo**: ![Tic-Tac-Toe Demo](link-to-your-screenshot-or-gif)
   - **Repo**: [View Code](https://github.com/NehaAhen25/Tic-Tac-Toe)
----
-
-### 🎯 Goals
-- Strengthen deployment workflows and frontend-backend integration
-
+</details>
 ---
 
 ---
