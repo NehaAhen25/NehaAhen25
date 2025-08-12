@@ -10,10 +10,29 @@ I'm a B.Tech ECE-AI student passionate about programming and building project, w
 - **Game Development:** Pygame
 ---
 
-### 📈 Current Projects
-- 🐍 **Snake Game** – Collision detection, scoring system, modular gameplay
-- ❌ **Tic-Tac-Toe Game** – Clean GUI, sound integration, event-driven design
+<details>
+  <summary>🐍 Snake Game (Tkinter)</summary>
 
+  - **Tech Stack**: Python, Tkinter
+  - **Features**:
+    - Collision detection
+    - Scoring system
+    - Modular gameplay logic
+  - **Demo**: ![Snake Game Demo](link-to-your-screenshot-or-gif)
+  - **Repo**: [View Code](https://github.com/NehaAhen25/Snake-Game)
+
+</details>
+
+<details>
+  <summary>❌⭕ Tic-Tac-Toe Game (Tkinter)</summary>
+
+  - **Tech Stack**: Python, Tkinter
+  - **Features**:
+    - Clean GUI design
+    - Sound integration
+    - Win/draw detection
+  - **Demo**: ![Tic-Tac-Toe Demo](link-to-your-screenshot-or-gif)
+  - **Repo**: [View Code](https://github.com/NehaAhen25/Tic-Tac-Toe)
 ---
 
 ### 🎯 Goals
