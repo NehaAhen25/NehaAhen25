@@ -9,7 +9,7 @@ I'm a B.Tech ECE-AI student passionate about programming and building project, w
 - **DevOps & Deployment:** Git, Vercel, Streamlit
 - **Game Development:** Pygame
 ---
-
+##Projects
 <details>
   <summary>🐍 Snake Game (Tkinter)</summary>
 
